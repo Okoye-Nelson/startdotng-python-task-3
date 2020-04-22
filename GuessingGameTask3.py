@@ -40,7 +40,7 @@ So the game goes like this, there are 3 level options:
             else:
                 print("You got it right. You win!")
         else:
-            print("Lo siento, you failed. Try again!")
+            print("Sorry, you failed. Game over!")
 
     elif level_choice == 2:
         print("\nAlright. Medium level. Leggo!")
@@ -57,7 +57,7 @@ So the game goes like this, there are 3 level options:
             else:
                 print("You got it right. You win!")
         else:
-            print("Lo siento, you failed. Try again!")
+            print("Sorry, you failed. Game over!")
 
     elif level_choice == 3:
         print("\nAlright. Hard level. Leggo!")
